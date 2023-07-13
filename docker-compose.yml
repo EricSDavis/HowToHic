@@ -1,0 +1,9 @@
+services:
+  presentation:
+    build: .
+    ports:
+      - "8787:8787"
+    volumes:
+      - $PWD:/home/rstudio/presentation
+    environment:
+      - PASSWORD=bioc
