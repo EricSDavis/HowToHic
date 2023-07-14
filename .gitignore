@@ -1,2 +1,5 @@
 .Rproj.user
 *.Rproj
+.DS_Store
+/.quarto/
+presentation_files

@@ -1,0 +1,100 @@
+---
+title: "How to Hi-C"
+author: "Eric S. Davis"
+format:
+  revealjs:
+    incremental: true
+    transition: none
+    slide-number: true
+    footer: <https://github.com/EricSDavis/HowToHic>
+    chalkboard: true
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+
+## {background-image='images/howToHic001.png'}
+
+## {background-image='images/howToHic002.png'}
+
+## {background-image='images/howToHic003.png'}
+
+## {background-image='images/howToHic004.png'}
+
+## {background-image='images/howToHic005.png'}
+
+## {background-image='images/howToHic006.png'}
+
+## {background-image='images/howToHic007.png'}
+
+## {background-image='images/howToHic008.png'}
+
+## {background-image='images/howToHic009.png'}
+
+## {background-image='images/howToHic010.png'}
+
+## {background-image='images/howToHic011.png'}
+
+## {background-image='images/howToHic012.png'}
+
+## {background-image='images/howToHic013.png'}
+
+## {background-image='images/howToHic014.png'}
+
+## {background-image='images/howToHic015.png'}
+
+## {background-image='images/howToHic016.png'}
+
+## {background-image='images/howToHic017.png'}
+
+## {background-image='images/howToHic018.png'}
+
+## {background-image='images/howToHic019.png'}
+
+## {background-image='images/howToHic020.png'}
+
+## {background-image='images/howToHic021.png'}
+
+## {background-image='images/howToHic022.png'}
+
+## {background-image='images/howToHic023.png'}
+
+## {background-image='images/howToHic024.png'}
+
+## {background-image='images/howToHic025.png'}
+
+## {background-image='images/howToHic026.png'}
+
+## {background-image='images/howToHic027.png'}
+
+## {background-image='images/howToHic028.png'}
+
+## {background-image='images/howToHic029.png'}
+
+## {background-image='images/howToHic030.png'}
+
+## {background-image='images/howToHic031.png'}
+
+## {background-image='images/howToHic032.png'}
+
+## {background-image='images/howToHic033.png'}
+
+## {background-image='images/howToHic034.png'}
+
+## {background-image='images/howToHic035.png'}
+
+## {background-image='images/howToHic036.png'}
+
+## {background-image='images/howToHic037.png'}
+
+## {background-image='images/howToHic038.png'}
+
+## {background-image='images/howToHic039.png'}
+
+## {background-image='images/howToHic040.png'}
+
+## {background-image='images/howToHic041.png'}
+
+## {background-image='images/howToHic042.png'}
+
