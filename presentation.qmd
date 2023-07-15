@@ -14,87 +14,129 @@ editor_options:
 ---
 
 
-## {background-image='images/howToHic001.png'}
+## {.nostretch} 
+![](images/howToHic001.png){width='100%'}
 
-## {background-image='images/howToHic002.png'}
+## {.nostretch} 
+![](images/howToHic002.png){width='100%'}
 
-## {background-image='images/howToHic003.png'}
+## {.nostretch} 
+![](images/howToHic003.png){width='100%'}
 
-## {background-image='images/howToHic004.png'}
+## {.nostretch} 
+![](images/howToHic004.png){width='100%'}
 
-## {background-image='images/howToHic005.png'}
+## {.nostretch} 
+![](images/howToHic005.png){width='100%'}
 
-## {background-image='images/howToHic006.png'}
+## {.nostretch} 
+![](images/howToHic006.png){width='100%'}
 
-## {background-image='images/howToHic007.png'}
+## {.nostretch} 
+![](images/howToHic007.png){width='100%'}
 
-## {background-image='images/howToHic008.png'}
+## {.nostretch} 
+![](images/howToHic008.png){width='100%'}
 
-## {background-image='images/howToHic009.png'}
+## {.nostretch} 
+![](images/howToHic009.png){width='100%'}
 
-## {background-image='images/howToHic010.png'}
+## {.nostretch} 
+![](images/howToHic010.png){width='100%'}
 
-## {background-image='images/howToHic011.png'}
+## {.nostretch} 
+![](images/howToHic011.png){width='100%'}
 
-## {background-image='images/howToHic012.png'}
+## {.nostretch} 
+![](images/howToHic012.png){width='100%'}
 
-## {background-image='images/howToHic013.png'}
+## {.nostretch} 
+![](images/howToHic013.png){width='100%'}
 
-## {background-image='images/howToHic014.png'}
+## {.nostretch} 
+![](images/howToHic014.png){width='100%'}
 
-## {background-image='images/howToHic015.png'}
+## {.nostretch} 
+![](images/howToHic015.png){width='100%'}
 
-## {background-image='images/howToHic016.png'}
+## {.nostretch} 
+![](images/howToHic016.png){width='100%'}
 
-## {background-image='images/howToHic017.png'}
+## {.nostretch} 
+![](images/howToHic017.png){width='100%'}
 
-## {background-image='images/howToHic018.png'}
+## {.nostretch} 
+![](images/howToHic018.png){width='100%'}
 
-## {background-image='images/howToHic019.png'}
+## {.nostretch} 
+![](images/howToHic019.png){width='100%'}
 
-## {background-image='images/howToHic020.png'}
+## {.nostretch} 
+![](images/howToHic020.png){width='100%'}
 
-## {background-image='images/howToHic021.png'}
+## {.nostretch} 
+![](images/howToHic021.png){width='100%'}
 
-## {background-image='images/howToHic022.png'}
+## {.nostretch} 
+![](images/howToHic022.png){width='100%'}
 
-## {background-image='images/howToHic023.png'}
+## {.nostretch} 
+![](images/howToHic023.png){width='100%'}
 
-## {background-image='images/howToHic024.png'}
+## {.nostretch} 
+![](images/howToHic024.png){width='100%'}
 
-## {background-image='images/howToHic025.png'}
+## {.nostretch} 
+![](images/howToHic025.png){width='100%'}
 
-## {background-image='images/howToHic026.png'}
+## {.nostretch} 
+![](images/howToHic026.png){width='100%'}
 
-## {background-image='images/howToHic027.png'}
+## {.nostretch} 
+![](images/howToHic027.png){width='100%'}
 
-## {background-image='images/howToHic028.png'}
+## {.nostretch} 
+![](images/howToHic028.png){width='100%'}
 
-## {background-image='images/howToHic029.png'}
+## {.nostretch} 
+![](images/howToHic029.png){width='100%'}
 
-## {background-image='images/howToHic030.png'}
+## {.nostretch} 
+![](images/howToHic030.png){width='100%'}
 
-## {background-image='images/howToHic031.png'}
+## {.nostretch} 
+![](images/howToHic031.png){width='100%'}
 
-## {background-image='images/howToHic032.png'}
+## {.nostretch} 
+![](images/howToHic032.png){width='100%'}
 
-## {background-image='images/howToHic033.png'}
+## {.nostretch} 
+![](images/howToHic033.png){width='100%'}
 
-## {background-image='images/howToHic034.png'}
+## {.nostretch} 
+![](images/howToHic034.png){width='100%'}
 
-## {background-image='images/howToHic035.png'}
+## {.nostretch} 
+![](images/howToHic035.png){width='100%'}
 
-## {background-image='images/howToHic036.png'}
+## {.nostretch} 
+![](images/howToHic036.png){width='100%'}
 
-## {background-image='images/howToHic037.png'}
+## {.nostretch} 
+![](images/howToHic037.png){width='100%'}
 
-## {background-image='images/howToHic038.png'}
+## {.nostretch} 
+![](images/howToHic038.png){width='100%'}
 
-## {background-image='images/howToHic039.png'}
+## {.nostretch} 
+![](images/howToHic039.png){width='100%'}
 
-## {background-image='images/howToHic040.png'}
+## {.nostretch} 
+![](images/howToHic040.png){width='100%'}
 
-## {background-image='images/howToHic041.png'}
+## {.nostretch} 
+![](images/howToHic041.png){width='100%'}
 
-## {background-image='images/howToHic042.png'}
+## {.nostretch} 
+![](images/howToHic042.png){width='100%'}
 

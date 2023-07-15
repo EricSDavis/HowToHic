@@ -23,7 +23,9 @@ files <- list.files(path = "images", full.names = TRUE)
 
 ## Define slides
 slides <- paste0(
-  "## {background-image='", files, "'}", "\n\n"
+  "## {.nostretch} \n",
+  "![]", "(", files, "){width='100%'}\n",
+  "\n"
 )
 
 ## Turn output to lines
